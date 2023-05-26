@@ -1,6 +1,7 @@
 # BAKERY WEB DESIGN
 ### > design for imaginary bakery
   * Figma
+  * https://www.figma.com/proto/g0eecl5oybLyx9ua1bwUsC/SweetySweet_bakery?page-id=0%3A1&type=design&node-id=2-375&viewport=-6209%2C552%2C0.95&scaling=min-zoom&starting-point-node-id=0%3A3
   
 ***
 > Homepage
